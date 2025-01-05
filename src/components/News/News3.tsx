@@ -129,7 +129,9 @@ const News3 = () => {
                                 </div>
                                 <div className="flex justify-between items-center">
                                     <div>
-                                        3. My Beautiful Dark Twisted Fantasy
+                                        <p>
+                                        3. <ClickableWord word="My Beautiful Dark Twisted Fantasy" soundFile="/sounds/DevilInANewDress.mp3"/>
+                                        </p>
                                     </div>
                                     <div>
                                         4,498,138,360
